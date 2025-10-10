@@ -1205,7 +1205,7 @@ if menu == "SSD":
             },     
         ]
         display_images_with_data(gambar_urls, data_list)
-    baleg()
+    SSD()
     if menu == "SSD":
     def baleg():
         gambar_urls = [
